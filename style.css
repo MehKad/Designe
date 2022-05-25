@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    position: absolute;
+}
+div{
+    width: 110px;
+    height: 130px;
+    border: 2px solid rgb(0, 0, 0);
+    position: fixed;
+}
+#a{
+    background-color: yellow;
+    top: 50px;
+    left: 50px;
+}
+#b{
+    background-color: blue;
+    top: 50px;
+    left: 400px;
+}
+#c{
+    background-color: green;
+    top: 230px;
+    left: 50px;
+}
+#d{
+    background-color: red;
+    top: 230px;
+    left: 400px;
+}
